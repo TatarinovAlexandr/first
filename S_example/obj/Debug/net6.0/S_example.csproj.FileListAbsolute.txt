@@ -1,0 +1,15 @@
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\bin\Debug\net6.0\S_example.exe
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\bin\Debug\net6.0\S_example.deps.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\bin\Debug\net6.0\S_example.runtimeconfig.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\bin\Debug\net6.0\S_example.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\bin\Debug\net6.0\S_example.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.csproj.AssemblyReference.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.AssemblyInfoInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.AssemblyInfo.cs
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.csproj.CoreCompileInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\refint\S_example.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\S_example.genruntimeconfig.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\S_example\obj\Debug\net6.0\ref\S_example.dll

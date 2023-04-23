@@ -1,0 +1,15 @@
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.csproj.AssemblyReference.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.AssemblyInfoInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.AssemblyInfo.cs
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.csproj.CoreCompileInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\bin\Debug\net6.0\Example_dif.exe
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\bin\Debug\net6.0\Example_dif.deps.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\bin\Debug\net6.0\Example_dif.runtimeconfig.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\bin\Debug\net6.0\Example_dif.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\bin\Debug\net6.0\Example_dif.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\refint\Example_dif.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\Example_dif.genruntimeconfig.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Example_dif\obj\Debug\net6.0\ref\Example_dif.dll

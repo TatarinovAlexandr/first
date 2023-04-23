@@ -1,0 +1,15 @@
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\bin\Debug\net6.0\example1_helloC.exe
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\bin\Debug\net6.0\example1_helloC.deps.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\bin\Debug\net6.0\example1_helloC.runtimeconfig.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\bin\Debug\net6.0\example1_helloC.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\bin\Debug\net6.0\example1_helloC.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.csproj.AssemblyReference.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.AssemblyInfoInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.AssemblyInfo.cs
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.csproj.CoreCompileInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\refint\example1_helloC.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\example1_helloC.genruntimeconfig.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\example1_helloC\obj\Debug\net6.0\ref\example1_helloC.dll

@@ -1,0 +1,15 @@
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\bin\Debug\net6.0\Гири.exe
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\bin\Debug\net6.0\Гири.deps.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\bin\Debug\net6.0\Гири.runtimeconfig.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\bin\Debug\net6.0\Гири.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\bin\Debug\net6.0\Гири.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.csproj.AssemblyReference.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.AssemblyInfoInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.AssemblyInfo.cs
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.csproj.CoreCompileInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\refint\Гири.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\Гири.genruntimeconfig.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\Гири\obj\Debug\net6.0\ref\Гири.dll

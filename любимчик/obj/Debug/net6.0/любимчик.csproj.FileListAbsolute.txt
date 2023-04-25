@@ -1,0 +1,15 @@
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.csproj.AssemblyReference.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.AssemblyInfoInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.AssemblyInfo.cs
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.csproj.CoreCompileInputs.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\bin\Debug\net6.0\любимчик.exe
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\bin\Debug\net6.0\любимчик.deps.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\bin\Debug\net6.0\любимчик.runtimeconfig.json
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\bin\Debug\net6.0\любимчик.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\bin\Debug\net6.0\любимчик.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\refint\любимчик.dll
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.pdb
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\любимчик.genruntimeconfig.cache
+C:\Users\tatar\OneDrive\Рабочий стол\1 Лекция\любимчик\obj\Debug\net6.0\ref\любимчик.dll
